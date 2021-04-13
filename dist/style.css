@@ -4379,6 +4379,10 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
+.bg-background-quote {
+  background-image: url('/images/bg-pattern-quotation.svg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -8184,6 +8188,10 @@ video {
 
 .bg-top {
   background-position: top;
+}
+
+.bg-background-quote {
+  background-position: top 0% left 80%;
 }
 
 .bg-repeat {
@@ -36544,6 +36552,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .sm\:bg-background-quote {
+    background-image: url('/images/bg-pattern-quotation.svg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -40349,6 +40361,10 @@ video {
 
   .sm\:bg-top {
     background-position: top;
+  }
+
+  .sm\:bg-background-quote {
+    background-position: top 0% left 80%;
   }
 
   .sm\:bg-repeat {
@@ -68539,6 +68555,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .md\:bg-background-quote {
+    background-image: url('/images/bg-pattern-quotation.svg');
+  }
+
   .md\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -72344,6 +72364,10 @@ video {
 
   .md\:bg-top {
     background-position: top;
+  }
+
+  .md\:bg-background-quote {
+    background-position: top 0% left 80%;
   }
 
   .md\:bg-repeat {
@@ -100534,6 +100558,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .lg\:bg-background-quote {
+    background-image: url('/images/bg-pattern-quotation.svg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -104339,6 +104367,10 @@ video {
 
   .lg\:bg-top {
     background-position: top;
+  }
+
+  .lg\:bg-background-quote {
+    background-position: top 0% left 80%;
   }
 
   .lg\:bg-repeat {
@@ -132529,6 +132561,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .xl\:bg-background-quote {
+    background-image: url('/images/bg-pattern-quotation.svg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -136334,6 +136370,10 @@ video {
 
   .xl\:bg-top {
     background-position: top;
+  }
+
+  .xl\:bg-background-quote {
+    background-position: top 0% left 80%;
   }
 
   .xl\:bg-repeat {
@@ -164524,6 +164564,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .\32xl\:bg-background-quote {
+    background-image: url('/images/bg-pattern-quotation.svg');
+  }
+
   .\32xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -168329,6 +168373,10 @@ video {
 
   .\32xl\:bg-top {
     background-position: top;
+  }
+
+  .\32xl\:bg-background-quote {
+    background-position: top 0% left 80%;
   }
 
   .\32xl\:bg-repeat {
