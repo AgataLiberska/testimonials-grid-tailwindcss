@@ -1,0 +1,23 @@
+{
+  "name": "testimonials-grid-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgataLiberska/testimonials-grid-tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgataLiberska/testimonials-grid-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/AgataLiberska/testimonials-grid-tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.1"
+  }
+}
