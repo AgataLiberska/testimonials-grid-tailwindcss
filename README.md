@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [See the solution on Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-using-tailwind-css-MNN9-rxaH)
-- [See the live site](https://github.com/AgataLiberska/testimonials-grid-tailwindcss)
+- [See live demo](https://testimonials-grid-tailwindcss.vercel.app/)
 
 ## My process
 
